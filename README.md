@@ -7,7 +7,7 @@ Project description
 </br>
 
 ### InspireDo SAT (iOS)
-*Summer 2017 · Professional · Demos*
+*Summer 2017 · Professional · Demos*</br>
 Project description
 </br>
 </br>
@@ -25,7 +25,7 @@ Project description
 </br>
 
 ### InspireDo SAT (Android)
-*Summers 2015 & 2016 · Professional*
+*Summers 2015 & 2016 · Professional*</br>
 Project description
 </br>
 </br>
@@ -43,13 +43,13 @@ Project description
 </br>
 
 ### HTTP Web Server
-*Spring 2016 · Distributed System Course Project*
+*Spring 2016 · Distributed System Course Project*</br>
 Project description
 </br>
 </br>
 
 ### Irish Coffee Compiler
-*Fall 2015 · Compilers Course Project*
+*Fall 2015 · Compilers Course Project*</br>
 Project description
 </br>
 </br>
