@@ -1,20 +1,22 @@
 # My Projects
 
 ### InspireDo Mind Training
-*Fall 2017* | Professional
-
+*Fall 2017 | Professional*
+</br>
+</br>
 ### InspireDo SAT (iOS)
-*Summer 2017* | Professional
-
+*Summer 2017 | Professional*
+</br>
+</br>
 ### Viewed More
-*Spring 2017* | NLP Course Project
+*Spring 2017 | NLP Course Project*</br>
+[Source](https://github.com/erikkessler1/viewed-more)</br>
 
-[Source](https://github.com/erikkessler1/viewed-more)
-
+This is a project
+</br>
+</br>
 ### Erg OCR
-*Fall 2016* | NLP Course Project
-
-[Source](https://github.com/erikkessler1/erg-ocr)
+*Fall 2016* | NLP Course Project  [Source](https://github.com/erikkessler1/erg-ocr)
 
 ### InspireDo SAT (Android)
 *Summers 2015 & 2016* | Professional
@@ -37,6 +39,15 @@
 *Spring 2015* | Personal Project
 
 [Source](https://github.com/erikkessler1/williams-menus)
+</br>
+</br>
+### Williams ARM Virtual Emulator
+
+*Fall 2014* | Computer Organization Course Project
+
+ARM emulator written on the x86-64 architecture.
+
+
 
 ---
 Erik Kessler | erik.kessler1@gmail.com | *Updated 2017-11-08*
