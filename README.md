@@ -1,7 +1,7 @@
 # My Projects
 
 ### InspireDo Mind Training
-*Fall 2017 | Professional | Demos*</br>
+*Fall 2017 · Professional · Demos*</br>
 Project description
 </br>
 </br>
