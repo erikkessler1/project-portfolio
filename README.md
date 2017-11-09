@@ -49,26 +49,26 @@ Project description
 </br>
 
 ### HTTP Web Server
-*Spring 2016 · Distributed System Course Project*</br>
-Project description
+*Spring 2016 · Distributed System Course Project · [Writeup](google.com)*</br>
+Built a multithreaded HTTP webserver in C++ that was able to handle 200 concurrent clients. We tested and analyzed fault tolerance and performance.
 </br>
 </br>
 
 ### Irish Coffee Compiler
 *Fall 2015 · Compilers Course Project*</br>
-Project description
+Designed and built a compiler, written in Scala, compiling an object-oriented programming language to x86 assembly. Created an extension to optimize virtual method innovation that cut function call time by 78%.
 </br>
 </br>
 
 ### Eph Menus
 *Spring 2015 · Personal Project · [Source](https://github.com/erikkessler1/williams-menus)*</br>
-Project description
+iOS app written in Swift that displays dining hall menus for Williams College students. Downloaded by over 250 students.
 </br>
 </br>
 
 ### Williams ARM Virtual Emulator
 *Fall 2014 · Computer Organization Course Project*</br>
-ARM emulator written on the x86-64 architecture.
+ARM emulator written on the x86-64 architecture. Our VM ran ~45 x86 instructions per ARM instructions and required 541 bytes of memory. 
 </br>
 </br>
 
