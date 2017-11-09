@@ -18,6 +18,12 @@ iOS app written in Swift with a Firebase backend that shows students daily tasks
 </br>
 </br>
 
+### Threading Library
+*Spring 2017 · Operating Systems Course Project · [Writeup](https://github.com/erikkessler1/project-portfolio/blob/master/threads_paper.pdf)*</br>
+Implemented a user-space threading library with Mesa monitors in C++. Also created a test suite to verify the correctness of my implementation.
+</br>
+</br>
+
 ### Viewed More
 *Spring 2017 · NLP Course Project · [Source](https://github.com/erikkessler1/viewed-more)*</br>
 Naive Bayes classifier designed to predict whether a YouTube video is likely to receive more or less views than average for the uploader based on the title.
