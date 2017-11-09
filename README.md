@@ -43,13 +43,13 @@ Project description
 </br>
 
 ### Hadoop Data Processing
-*Spring 2016 · Distributed Systems Course Project*</br>
-Project description
+*Spring 2016 · Distributed Systems Course Project · [Writeup](https://github.com/erikkessler1/project-portfolio/blob/master/hadoop_paper.pdf)*</br>
+Hadoop job to process advertising log files and find the best advertisments to show. Ran the job on an Amazon EC2 cluster.
 </br>
 </br>
 
 ### HTTP Web Server
-*Spring 2016 · Distributed System Course Project · [Writeup](google.com)*</br>
+*Spring 2016 · Distributed System Course Project · [Writeup](https://github.com/erikkessler1/project-portfolio/blob/master/webserver_paper.pdf)*</br>
 Built a multithreaded HTTP webserver in C++ that was able to handle 200 concurrent clients. We tested and analyzed fault tolerance and performance.
 </br>
 </br>
