@@ -66,7 +66,7 @@ Designed and built a compiler, written in Scala, compiling an object-oriented pr
 </br>
 </br>
 
-### Eph Menu
+### Eph Menus
 *Spring 2015 · Personal Project · [Source](https://github.com/erikkessler1/williams-menus)*</br>
 iOS app written in Swift that displays dining hall menus for Williams College students. Downloaded by over 250 students.
 </br>
