@@ -79,4 +79,4 @@ ARM emulator written on the x86-64 architecture. Our VM ran ~45 x86 instructions
 </br>
 
 ---
-Erik Kessler | erik.kessler1@gmail.com | *Updated 2018-02-02*
+Erik Kessler | erik.kessler1@gmail.com | *Updated 2018-02-02**
